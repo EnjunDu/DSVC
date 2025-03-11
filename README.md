@@ -1,4 +1,4 @@
-This is the code for “Dual Social View Enhanced Contrastive Learning for Social Recommendation”
+This is the code for [“Dual Social View Enhanced Contrastive Learning for Social Recommendation”](https://ieeexplore.ieee.org/abstract/document/10769506)
 
 The DSVC is replaced by SNCL because we made changes based on the original SCNL code, so use the UPDATED SNCL is ok.
 
